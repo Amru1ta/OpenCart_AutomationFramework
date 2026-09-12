@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-12T17:13:29 IST" name="Suite" finished-at="2026-09-12T17:15:28 IST" duration-ms="119845">
+    <groups>
+      <group name="sanity">
+        <method signature="TC002_AccountLogin.loginpage()[pri:0, instance:testCases.TC002_AccountLogin@4671115f]" name="loginpage" class="testCases.TC002_AccountLogin"/>
+        <method signature="TC002_AccountLogin.loginpage()[pri:0, instance:testCases.TC002_AccountLogin@5c44c582]" name="loginpage" class="testCases.TC002_AccountLogin"/>
+        <method signature="TC002_AccountLogin.loginpage()[pri:0, instance:testCases.TC002_AccountLogin@2c78d320]" name="loginpage" class="testCases.TC002_AccountLogin"/>
+      </group> <!-- sanity -->
+      <group name="master">
+        <method signature="TC002_AccountLogin.loginpage()[pri:0, instance:testCases.TC002_AccountLogin@4671115f]" name="loginpage" class="testCases.TC002_AccountLogin"/>
+        <method signature="TC002_AccountLogin.loginpage()[pri:0, instance:testCases.TC002_AccountLogin@5c44c582]" name="loginpage" class="testCases.TC002_AccountLogin"/>
+        <method signature="TC002_AccountLogin.loginpage()[pri:0, instance:testCases.TC002_AccountLogin@2c78d320]" name="loginpage" class="testCases.TC002_AccountLogin"/>
+      </group> <!-- master -->
+    </groups>
+    <test started-at="2026-09-12T17:13:29 IST" name="Test1" finished-at="2026-09-12T17:14:36 IST" duration-ms="67339">
+      <class name="testCases.TC002_AccountLogin">
+        <test-method is-config="true" signature="openLink(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_AccountLogin@4671115f]" started-at="2026-09-12T17:13:29 IST" name="openLink" finished-at="2026-09-12T17:14:04 IST" duration-ms="35113" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openLink -->
+        <test-method signature="loginpage()[pri:0, instance:testCases.TC002_AccountLogin@4671115f]" started-at="2026-09-12T17:14:04 IST" name="loginpage" finished-at="2026-09-12T17:14:31 IST" duration-ms="26873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC002_AccountLogin@4671115f]" started-at="2026-09-12T17:14:31 IST" name="tearDown" finished-at="2026-09-12T17:14:36 IST" duration-ms="4814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC002_AccountLogin -->
+    </test> <!-- Test1 -->
+    <test started-at="2026-09-12T17:13:29 IST" name="Test2" finished-at="2026-09-12T17:14:38 IST" duration-ms="69651">
+      <class name="testCases.TC002_AccountLogin">
+        <test-method is-config="true" signature="openLink(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_AccountLogin@5c44c582]" started-at="2026-09-12T17:13:29 IST" name="openLink" finished-at="2026-09-12T17:14:12 IST" duration-ms="43623" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openLink -->
+        <test-method signature="loginpage()[pri:0, instance:testCases.TC002_AccountLogin@5c44c582]" started-at="2026-09-12T17:14:12 IST" name="loginpage" finished-at="2026-09-12T17:14:33 IST" duration-ms="21134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC002_AccountLogin@5c44c582]" started-at="2026-09-12T17:14:33 IST" name="tearDown" finished-at="2026-09-12T17:14:38 IST" duration-ms="4838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC002_AccountLogin -->
+    </test> <!-- Test2 -->
+    <test started-at="2026-09-12T17:13:29 IST" name="Test3" finished-at="2026-09-12T17:15:28 IST" duration-ms="119842">
+      <class name="testCases.TC002_AccountLogin">
+        <test-method is-config="true" signature="openLink(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_AccountLogin@2c78d320]" started-at="2026-09-12T17:13:29 IST" name="openLink" finished-at="2026-09-12T17:15:10 IST" duration-ms="101787" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openLink -->
+        <test-method signature="loginpage()[pri:0, instance:testCases.TC002_AccountLogin@2c78d320]" started-at="2026-09-12T17:15:10 IST" name="loginpage" finished-at="2026-09-12T17:15:23 IST" duration-ms="12960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC002_AccountLogin@2c78d320]" started-at="2026-09-12T17:15:23 IST" name="tearDown" finished-at="2026-09-12T17:15:28 IST" duration-ms="5033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC002_AccountLogin -->
+    </test> <!-- Test3 -->
+  </suite> <!-- Suite -->
+</testng-results>

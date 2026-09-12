@@ -1,0 +1,705 @@
+2026-09-05 21:54:31.661 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-05 21:54:31.668 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-09-05 21:54:31.670 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-05 21:54:31.670 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-05 21:54:31.671 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-05 21:54:31.673 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-05 21:54:31.673 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-05 21:54:31.674 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-05 21:54:31.679 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2026-09-05 21:54:31.702 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 22 ms.
+2026-09-05 21:54:31.704 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-05 21:54:31.704 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-05 21:54:31.705 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-05 21:54:31.705 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-05 21:54:31.706 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-05 21:54:31.706 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-05 21:54:31.709 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-05 21:54:31.709 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-05 21:54:31.709 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-05 21:54:31.709 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-05 21:54:31.712 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-05 21:54:31.712 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-05 21:54:31.712 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-05 21:54:31.712 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-05 21:54:31.713 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-05 21:54:31.713 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-05 21:54:31.715 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-05 21:54:31.715 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-05 21:54:31.715 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-05 21:54:31.715 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-05 21:54:31.726 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\AppData\Local\Temp\testng-eclipse--550665572\testng-customsuite.xml
+
+2026-09-05 21:54:31.748 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2026-09-05 21:54:44.084 [main] INFO  testCases.TC001_AccountRegisteration - **Starting Test Case 001**
+2026-09-05 21:54:44.162 [main] INFO  testCases.TC001_AccountRegisteration - Clicked On My Account
+2026-09-05 21:54:44.247 [main] INFO  testCases.TC001_AccountRegisteration - Clicked On Register
+2026-09-05 21:54:47.505 [main] INFO  testCases.TC001_AccountRegisteration - Registeration Details......
+2026-09-05 21:54:51.315 [main] INFO  testCases.TC001_AccountRegisteration - **Registeration Completed..........
+2026-09-05 21:54:53.128 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@f2ce6b: 102 ms
+2026-09-05 21:54:53.130 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1bd0b0e5: 1 ms
+2026-09-05 21:54:53.143 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7d0614f: 11 ms
+2026-09-05 21:54:53.159 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2ca5f1ed: 16 ms
+2026-09-05 21:54:53.167 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6f9ad11c: 7 ms
+2026-09-05 21:54:53.167 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4b2d44bc: 0 ms
+2026-09-06 11:53:24.454 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-06 11:53:24.476 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-09-06 11:53:24.478 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-06 11:53:24.478 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-06 11:53:24.479 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-06 11:53:24.479 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-06 11:53:24.480 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-06 11:53:24.480 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-06 11:53:24.485 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2026-09-06 11:53:24.511 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 25 ms.
+2026-09-06 11:53:24.513 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-06 11:53:24.514 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-06 11:53:24.515 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-06 11:53:24.515 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-06 11:53:24.515 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-06 11:53:24.515 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-06 11:53:24.518 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-06 11:53:24.518 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-06 11:53:24.518 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-06 11:53:24.518 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-06 11:53:24.522 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-06 11:53:24.522 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-06 11:53:24.522 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-06 11:53:24.522 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-06 11:53:24.524 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-06 11:53:24.525 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-06 11:53:24.527 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-06 11:53:24.527 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-06 11:53:24.527 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-09-06 11:53:24.527 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-09-06 11:53:24.539 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\AppData\Local\Temp\testng-eclipse--1109743097\testng-customsuite.xml
+
+2026-09-06 11:53:24.563 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2026-09-06 11:53:25.086 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@27a5328c: 196 ms
+2026-09-06 11:53:25.148 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4b6579e8: 62 ms
+2026-09-06 11:53:25.210 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@71c5b236: 61 ms
+2026-09-06 11:53:25.237 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@54361a9: 26 ms
+2026-09-06 11:53:25.247 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6fa590ba: 10 ms
+2026-09-06 11:53:25.248 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6e9319f: 0 ms
+2026-09-06 11:54:42.903 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\testng.xml
+
+2026-09-06 11:57:50.086 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\testng.xml
+
+2026-09-06 12:02:58.023 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\testng.xml
+
+2026-09-06 12:04:05.079 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\testng.xml
+
+2026-09-06 12:10:46.156 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\testng.xml
+
+2026-09-06 12:10:59.483 [main] INFO  testCases.TC001_AccountRegisteration - **Starting Test Case 001**
+2026-09-06 12:10:59.547 [main] INFO  testCases.TC001_AccountRegisteration - Clicked On My Account
+2026-09-06 12:10:59.738 [main] INFO  testCases.TC001_AccountRegisteration - Clicked On Register
+2026-09-06 12:11:01.260 [main] INFO  testCases.TC001_AccountRegisteration - Registeration Details......
+2026-09-06 12:11:03.817 [main] INFO  testCases.TC001_AccountRegisteration - **Registeration Completed..........
+2026-09-06 12:11:14.275 [main] INFO  testCases.TC001_AccountRegisteration - **Starting Test Case 001**
+2026-09-06 12:11:14.275 [main] INFO  testCases.TC001_AccountRegisteration - Clicked On My Account
+2026-09-06 12:11:15.221 [main] INFO  testCases.TC001_AccountRegisteration - Clicked On Register
+2026-09-06 12:11:16.184 [main] INFO  testCases.TC001_AccountRegisteration - Registeration Details......
+2026-09-06 12:11:18.717 [main] INFO  testCases.TC001_AccountRegisteration - **Registeration Completed..........
+2026-09-06 12:11:32.057 [main] INFO  testCases.TC001_AccountRegisteration - **Starting Test Case 001**
+2026-09-06 12:11:32.058 [main] INFO  testCases.TC001_AccountRegisteration - Clicked On My Account
+2026-09-06 12:11:32.427 [main] INFO  testCases.TC001_AccountRegisteration - Clicked On Register
+2026-09-06 12:11:33.881 [main] INFO  testCases.TC001_AccountRegisteration - Registeration Details......
+2026-09-06 12:11:36.338 [main] INFO  testCases.TC001_AccountRegisteration - **Registeration Completed..........
+2026-09-06 14:59:49.435 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\TC002.xml
+
+2026-09-06 15:00:50.216 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\TC002.xml
+
+2026-09-06 15:05:02.007 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\TC002.xml
+
+2026-09-06 15:05:09.550 [main] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-06 15:05:09.599 [main] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-06 15:05:10.151 [main] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-06 15:05:10.824 [main] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-06 15:05:55.112 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\TC002.xml
+
+2026-09-06 15:06:02.767 [main] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-06 15:06:02.831 [main] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-06 15:06:02.931 [main] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-06 15:06:03.378 [main] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-06 15:06:39.626 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\TC002.xml
+
+2026-09-06 15:06:46.422 [main] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-06 15:06:46.475 [main] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-06 15:06:46.591 [main] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-06 15:06:47.254 [main] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-06 15:06:49.403 [main] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-06 15:11:30.900 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\TC002.xml
+
+2026-09-06 15:11:37.878 [main] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-06 15:11:37.928 [main] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-06 15:11:38.036 [main] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-06 15:11:38.336 [main] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-06 15:11:40.215 [main] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-06 15:34:20.609 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\TC002.xml
+
+2026-09-06 15:34:28.152 [main] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-06 15:34:28.264 [main] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-06 15:34:51.262 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\TC002.xml
+
+2026-09-06 15:34:58.047 [main] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-06 15:34:58.118 [main] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-06 15:34:58.234 [main] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-06 15:34:58.639 [main] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-06 15:35:00.956 [main] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-07 13:24:50.386 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\TC002.xml
+
+2026-09-07 13:29:56.259 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\TC002.xml
+
+2026-09-07 13:30:36.480 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Started***
+2026-09-07 13:30:44.200 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Started***
+2026-09-07 13:30:46.451 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Finished***
+2026-09-07 13:30:46.465 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Started***
+2026-09-07 13:30:48.443 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Finished***
+2026-09-07 13:30:48.459 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Started***
+2026-09-07 13:30:49.989 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Finished***
+2026-09-07 13:30:50.001 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Started***
+2026-09-07 13:33:37.169 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\TC002.xml
+
+2026-09-07 13:34:20.921 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Started***
+2026-09-07 13:34:32.420 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Finished***
+2026-09-07 13:34:32.425 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Started***
+2026-09-07 13:34:41.077 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Started***
+2026-09-07 13:34:44.804 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Finished***
+2026-09-07 13:34:44.811 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Started***
+2026-09-07 13:34:51.486 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Finished***
+2026-09-07 13:34:51.493 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Started***
+2026-09-07 13:39:35.180 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\TC002.xml
+
+2026-09-07 13:40:23.472 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Started***
+2026-09-07 13:40:29.752 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Finished***
+2026-09-07 13:40:29.761 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Started***
+2026-09-07 13:40:36.355 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Started***
+2026-09-07 13:40:38.910 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Finished***
+2026-09-07 13:40:38.915 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Started***
+2026-09-07 13:40:41.429 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Finished***
+2026-09-07 13:40:41.435 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Started***
+2026-09-07 13:43:36.483 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\TC002.xml
+
+2026-09-07 13:44:22.792 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Started***
+2026-09-07 13:44:30.225 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Finished***
+2026-09-07 13:44:30.235 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Started***
+2026-09-07 13:44:40.579 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Started***
+2026-09-07 13:44:48.120 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Finished***
+2026-09-07 13:44:48.131 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Started***
+2026-09-07 13:44:51.846 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Finished***
+2026-09-07 13:44:51.859 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Started***
+2026-09-07 13:52:10.785 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\TC002.xml
+
+2026-09-07 13:52:57.766 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Started***
+2026-09-07 13:53:14.458 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Finished***
+2026-09-07 13:53:14.477 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Started***
+2026-09-07 13:53:25.052 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Started***
+2026-09-07 13:53:28.001 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Finished***
+2026-09-07 13:53:28.013 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Started***
+2026-09-07 13:53:31.135 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Finished***
+2026-09-07 13:53:31.147 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Started***
+2026-09-07 13:53:32.791 [main] INFO  testCases.TC003_MultipleLogins - ***TC003_Started***
+2026-09-07 18:00:47.359 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\testng.xml
+
+2026-09-07 18:02:41.740 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\testng.xml
+
+2026-09-07 18:03:20.983 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisteration - **Starting Test Case 001**
+2026-09-07 18:03:21.690 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisteration - Clicked On My Account
+2026-09-07 18:03:24.647 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisteration - Clicked On Register
+2026-09-07 18:03:30.276 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisteration - Registeration Details......
+2026-09-07 18:03:43.362 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisteration - **Registeration Completed..........
+2026-09-07 18:04:02.228 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisteration - **Starting Test Case 001**
+2026-09-07 18:04:02.233 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisteration - Clicked On My Account
+2026-09-07 18:04:05.477 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisteration - Clicked On Register
+2026-09-07 18:04:07.341 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisteration - Registeration Details......
+2026-09-07 18:04:15.567 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisteration - **Registeration Completed..........
+2026-09-07 18:06:24.211 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\testng.xml
+
+2026-09-07 18:06:55.209 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-07 18:06:56.513 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-07 18:06:59.990 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-07 18:07:01.445 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-07 18:07:05.890 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-07 18:07:05.891 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-07 18:07:12.106 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-07 18:07:14.191 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-07 18:07:15.479 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-07 18:07:28.176 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-07 18:08:02.731 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-07 18:08:02.735 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-07 18:08:05.285 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-07 18:08:07.990 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-07 18:08:16.817 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-07 18:14:51.441 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\grouping.xml
+
+2026-09-07 18:15:05.977 [main] INFO  testCases.TC001_AccountRegisteration - **Starting Test Case 001**
+2026-09-07 18:15:06.083 [main] INFO  testCases.TC001_AccountRegisteration - Clicked On My Account
+2026-09-07 18:15:06.250 [main] INFO  testCases.TC001_AccountRegisteration - Clicked On Register
+2026-09-07 18:15:07.062 [main] INFO  testCases.TC001_AccountRegisteration - Registeration Details......
+2026-09-07 18:15:09.986 [main] INFO  testCases.TC001_AccountRegisteration - **Registeration Completed..........
+2026-09-07 18:15:17.825 [main] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-07 18:15:17.825 [main] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-07 18:15:17.907 [main] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-07 18:15:18.332 [main] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-07 18:15:20.254 [main] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-07 20:33:59.419 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\grouping.xml
+
+2026-09-07 20:34:49.184 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\grouping.xml
+
+2026-09-07 20:35:16.919 [main] INFO  testCases.TC001_AccountRegisteration - **Starting Test Case 001**
+2026-09-07 20:35:17.252 [main] INFO  testCases.TC001_AccountRegisteration - Clicked On My Account
+2026-09-07 20:35:19.870 [main] INFO  testCases.TC001_AccountRegisteration - Clicked On Register
+2026-09-07 20:35:22.920 [main] INFO  testCases.TC001_AccountRegisteration - Registeration Details......
+2026-09-07 20:35:27.297 [main] INFO  testCases.TC001_AccountRegisteration - **Registeration Completed..........
+2026-09-07 20:35:44.211 [main] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-07 20:35:44.212 [main] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-07 20:35:45.471 [main] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-07 20:35:46.945 [main] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-07 20:35:50.443 [main] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-07 20:37:26.666 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\grouping.xml
+
+2026-09-07 20:37:39.465 [main] INFO  testCases.TC001_AccountRegisteration - **Starting Test Case 001**
+2026-09-07 20:37:39.542 [main] INFO  testCases.TC001_AccountRegisteration - Clicked On My Account
+2026-09-07 20:37:39.663 [main] INFO  testCases.TC001_AccountRegisteration - Clicked On Register
+2026-09-07 20:37:40.685 [main] INFO  testCases.TC001_AccountRegisteration - Registeration Details......
+2026-09-07 20:37:43.546 [main] INFO  testCases.TC001_AccountRegisteration - **Registeration Completed..........
+2026-09-07 20:37:56.137 [main] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-07 20:37:56.138 [main] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-07 20:37:56.414 [main] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-07 20:37:56.762 [main] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-07 20:40:42.281 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\grouping.xml
+
+2026-09-07 20:40:50.810 [main] INFO  testCases.TC001_AccountRegisteration - **Starting Test Case 001**
+2026-09-07 20:40:50.853 [main] INFO  testCases.TC001_AccountRegisteration - Clicked On My Account
+2026-09-07 20:40:50.926 [main] INFO  testCases.TC001_AccountRegisteration - Clicked On Register
+2026-09-07 20:40:51.730 [main] INFO  testCases.TC001_AccountRegisteration - Registeration Details......
+2026-09-07 20:40:54.709 [main] INFO  testCases.TC001_AccountRegisteration - **Registeration Completed..........
+2026-09-07 20:41:05.165 [main] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-07 20:41:05.167 [main] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-07 20:41:05.647 [main] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-07 20:41:06.341 [main] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-07 20:45:43.837 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\grouping.xml
+
+2026-09-07 20:45:52.317 [main] INFO  testCases.TC001_AccountRegisteration - **Starting Test Case 001**
+2026-09-07 20:45:52.371 [main] INFO  testCases.TC001_AccountRegisteration - Clicked On My Account
+2026-09-07 20:45:52.485 [main] INFO  testCases.TC001_AccountRegisteration - Clicked On Register
+2026-09-07 20:45:53.572 [main] INFO  testCases.TC001_AccountRegisteration - Registeration Details......
+2026-09-07 20:45:57.215 [main] INFO  testCases.TC001_AccountRegisteration - **Registeration Completed..........
+2026-09-07 20:46:07.573 [main] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-07 20:46:07.574 [main] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-07 20:46:07.773 [main] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-07 20:46:08.216 [main] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-07 20:51:46.017 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\grouping.xml
+
+2026-09-07 20:51:59.428 [main] INFO  testCases.TC001_AccountRegisteration - **Starting Test Case 001**
+2026-09-07 20:51:59.501 [main] INFO  testCases.TC001_AccountRegisteration - Clicked On My Account
+2026-09-07 20:51:59.636 [main] INFO  testCases.TC001_AccountRegisteration - Clicked On Register
+2026-09-07 20:52:00.614 [main] INFO  testCases.TC001_AccountRegisteration - Registeration Details......
+2026-09-07 20:52:03.352 [main] INFO  testCases.TC001_AccountRegisteration - **Registeration Completed..........
+2026-09-07 20:52:11.728 [main] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-07 20:52:11.728 [main] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-07 20:52:11.839 [main] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-07 20:52:12.288 [main] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-07 21:54:56.377 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\test-output\testng-failed.xml
+
+2026-09-07 21:55:29.086 [main] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-07 21:55:29.117 [main] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-07 21:55:29.260 [main] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-07 21:55:30.295 [main] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-07 21:55:37.812 [main] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-08 13:35:08.456 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\TC002.xml
+
+2026-09-08 13:35:50.041 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\TC002.xml
+
+2026-09-08 13:35:59.223 [main] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-08 13:35:59.254 [main] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-08 13:35:59.609 [main] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-08 13:35:59.985 [main] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-08 13:39:01.273 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\TC002.xml
+
+2026-09-08 13:39:10.291 [main] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-08 13:39:10.406 [main] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-08 13:39:10.487 [main] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-08 13:39:10.831 [main] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-08 13:39:13.217 [main] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-08 13:51:10.742 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\TC002.xml
+
+2026-09-08 13:51:24.424 [main] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-08 13:51:24.458 [main] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-08 13:51:24.573 [main] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-08 13:51:25.070 [main] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-08 13:52:48.985 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\TC002.xml
+
+2026-09-08 13:52:55.948 [main] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-08 13:52:55.994 [main] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-08 13:52:56.122 [main] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-08 13:52:56.477 [main] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-08 13:52:58.280 [main] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-09 21:31:18.408 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\grid-docker.xml
+
+2026-09-09 21:31:59.350 [main] INFO  testCases.TC001_AccountRegisteration - **Starting Test Case 001**
+2026-09-09 21:31:59.443 [main] INFO  testCases.TC001_AccountRegisteration - Clicked On My Account
+2026-09-09 21:32:11.118 [main] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-09 21:32:11.120 [main] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-09 21:33:20.635 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\grid-docker.xml
+
+2026-09-09 21:33:26.017 [main] INFO  testCases.TC001_AccountRegisteration - **Starting Test Case 001**
+2026-09-09 21:33:26.057 [main] INFO  testCases.TC001_AccountRegisteration - Clicked On My Account
+2026-09-09 21:33:38.213 [main] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-09 21:33:38.213 [main] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-09 21:41:48.351 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\testng.xml
+
+2026-09-09 21:47:38.127 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\TC002.xml
+
+2026-09-09 21:58:03.191 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\TC002.xml
+
+2026-09-09 21:59:08.000 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\grid-docker.xml
+
+2026-09-09 21:59:19.599 [main] INFO  testCases.TC001_AccountRegisteration - **Starting Test Case 001**
+2026-09-09 21:59:20.651 [main] INFO  testCases.TC001_AccountRegisteration - Clicked On My Account
+2026-09-09 22:07:20.880 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\grid-docker.xml
+
+2026-09-09 22:07:29.486 [main] INFO  testCases.TC001_AccountRegisteration - **Starting Test Case 001**
+2026-09-09 22:07:29.564 [main] INFO  testCases.TC001_AccountRegisteration - Clicked On My Account
+2026-09-09 22:08:40.158 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\grid-docker.xml
+
+2026-09-09 22:20:41.785 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\grid-docker.xml
+
+2026-09-09 22:27:50.530 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\grid-docker.xml
+
+2026-09-09 22:28:28.799 [main] INFO  testCases.TC001_AccountRegisteration - **Starting Test Case 001**
+2026-09-09 22:28:28.905 [main] INFO  testCases.TC001_AccountRegisteration - Clicked On My Account
+2026-09-09 22:28:29.929 [main] INFO  testCases.TC001_AccountRegisteration - Clicked On Register
+2026-09-09 22:28:31.217 [main] INFO  testCases.TC001_AccountRegisteration - Registeration Details......
+2026-09-09 22:28:35.308 [main] INFO  testCases.TC001_AccountRegisteration - **Registeration Completed..........
+2026-09-09 22:28:48.381 [main] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-09 22:28:48.382 [main] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-09 22:28:48.538 [main] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-09 22:28:49.080 [main] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-09 22:28:51.438 [main] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-09 22:30:27.000 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\grid-docker.xml
+
+2026-09-09 22:32:44.969 [main] INFO  testCases.TC001_AccountRegisteration - **Starting Test Case 001**
+2026-09-09 22:32:45.207 [main] INFO  testCases.TC001_AccountRegisteration - Clicked On My Account
+2026-09-09 22:32:56.655 [main] INFO  testCases.TC001_AccountRegisteration - Clicked On Register
+2026-09-09 22:33:12.725 [main] INFO  testCases.TC001_AccountRegisteration - Registeration Details......
+2026-09-09 22:33:53.084 [main] INFO  testCases.TC001_AccountRegisteration - **Registeration Completed..........
+2026-09-10 20:04:17.727 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\TC002.xml
+
+2026-09-10 20:05:00.232 [main] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-10 20:05:00.494 [main] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-10 20:05:01.745 [main] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-10 20:05:02.464 [main] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-10 20:05:07.021 [main] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-10 20:05:30.383 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\TC002.xml
+
+2026-09-10 20:05:37.492 [main] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-10 20:05:37.528 [main] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-10 20:05:37.671 [main] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-10 20:05:38.183 [main] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-10 20:05:40.888 [main] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-10 20:05:54.192 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\TC002.xml
+
+2026-09-10 20:06:01.717 [main] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-10 20:06:01.770 [main] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-10 20:06:01.920 [main] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-10 20:06:02.463 [main] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-10 20:08:16.246 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\TC002.xml
+
+2026-09-10 20:08:23.344 [main] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-10 20:08:23.408 [main] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-10 20:08:23.545 [main] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-10 20:08:23.902 [main] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-10 20:08:25.837 [main] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-10 20:08:36.435 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\TC002.xml
+
+2026-09-10 20:08:43.639 [main] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-10 20:08:43.742 [main] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-10 20:08:43.949 [main] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-10 20:08:44.382 [main] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-10 20:08:46.085 [main] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-10 20:58:35.323 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\TC002.xml
+
+2026-09-10 21:00:00.610 [main] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-10 21:00:01.021 [main] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-10 21:00:06.396 [main] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-10 21:00:07.231 [main] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-10 21:00:13.630 [main] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-10 21:03:17.278 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\grid-docker.xml
+
+2026-09-10 21:05:38.459 [main] INFO  testCases.TC001_AccountRegisteration - **Starting Test Case 001**
+2026-09-10 21:05:38.852 [main] INFO  testCases.TC001_AccountRegisteration - Clicked On My Account
+2026-09-10 21:05:40.806 [main] INFO  testCases.TC001_AccountRegisteration - Clicked On Register
+2026-09-10 21:05:43.575 [main] INFO  testCases.TC001_AccountRegisteration - Registeration Details......
+2026-09-10 21:05:55.795 [main] INFO  testCases.TC001_AccountRegisteration - **Registeration Completed..........
+2026-09-10 21:06:19.696 [main] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-10 21:06:19.698 [main] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-10 21:06:19.971 [main] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-10 21:06:20.614 [main] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-10 21:06:23.297 [main] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-12 15:37:42.478 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\testng.xml
+
+2026-09-12 15:38:39.213 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 15:38:40.529 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 15:38:42.254 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 15:38:42.626 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-12 15:38:46.278 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-12 15:41:07.159 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\testng.xml
+
+2026-09-12 15:41:40.899 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 15:41:41.029 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 15:41:42.144 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 15:41:42.914 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-12 15:41:46.218 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-12 15:43:19.128 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 15:43:19.190 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 15:43:22.348 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 15:43:23.758 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-12 15:43:34.632 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-12 15:43:57.028 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 15:43:57.029 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 15:55:43.488 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 15:55:43.891 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 15:55:45.212 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 15:55:45.632 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-12 15:59:31.941 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 15:59:32.489 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 15:59:32.697 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 15:59:33.165 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-12 15:59:37.047 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-12 16:01:09.341 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 16:01:09.343 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 16:01:11.452 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 16:01:14.205 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-12 16:01:19.131 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-12 16:07:45.549 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 16:07:45.694 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 16:07:46.637 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 16:07:47.341 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-12 16:07:51.331 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-12 16:11:19.988 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 16:11:19.988 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 16:11:20.714 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 16:11:20.714 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 16:11:20.841 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 16:11:20.921 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 16:14:13.405 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 16:14:13.405 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 16:14:13.472 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 16:14:13.473 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 16:14:39.123 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 16:14:39.123 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 16:14:45.017 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 16:14:48.960 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-12 16:14:57.349 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-12 16:25:15.523 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 16:25:15.523 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 16:25:15.847 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 16:25:15.847 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 16:25:23.791 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 16:25:24.133 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 16:25:53.035 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 16:25:53.036 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 16:25:54.126 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 16:25:55.497 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-12 16:26:00.125 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-12 16:30:15.837 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\testng.xml
+
+2026-09-12 16:30:56.395 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 16:30:56.395 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 16:30:56.915 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 16:30:56.915 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 16:31:05.454 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 16:31:05.659 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 16:32:04.655 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 16:32:04.658 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 16:32:06.647 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 16:32:09.551 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-12 16:32:46.602 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\testng.xml
+
+2026-09-12 16:33:08.935 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 16:33:08.995 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 16:34:42.332 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 16:34:42.334 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 16:34:47.099 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 16:34:47.100 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 16:34:49.268 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 16:34:49.946 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 16:34:50.719 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 16:35:01.149 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-12 16:36:30.239 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\TC002.xml
+
+2026-09-12 16:36:42.345 [main] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 16:36:42.559 [main] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 16:36:42.690 [main] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 16:36:43.473 [main] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-12 16:36:45.288 [main] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-12 16:37:31.588 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\TC002.xml
+
+2026-09-12 16:37:42.981 [main] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 16:37:43.076 [main] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 16:37:43.958 [main] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 16:37:44.422 [main] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-12 16:37:46.383 [main] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-12 16:38:07.966 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\TC002.xml
+
+2026-09-12 16:38:22.232 [main] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 16:38:22.284 [main] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 16:38:22.453 [main] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 16:38:22.786 [main] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-12 16:38:24.987 [main] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-12 16:42:30.394 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\testng.xml
+
+2026-09-12 16:42:50.070 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 16:42:50.070 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 16:42:50.125 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 16:42:50.136 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 16:42:50.285 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 16:42:50.356 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 16:43:28.492 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 16:43:28.494 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 16:43:28.674 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 16:43:29.191 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-12 16:43:31.683 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-12 16:44:52.459 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart_AutomationFramework\testng.xml
+
+2026-09-12 16:45:10.230 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 16:45:10.290 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 16:45:10.411 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 16:45:11.231 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 16:45:11.232 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 16:45:11.260 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-12 16:45:11.530 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 16:45:12.100 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-12 16:45:20.275 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-12 16:45:22.966 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-12 16:45:27.494 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 16:45:27.495 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 16:45:27.635 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 16:45:28.449 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-12 16:45:32.641 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-12 16:48:46.052 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 16:48:46.089 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 16:48:46.231 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 16:48:46.693 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-12 16:48:49.380 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-12 16:48:54.543 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 16:48:54.544 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 16:48:54.724 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 16:48:55.157 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-12 16:48:56.735 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-12 16:50:08.839 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 16:50:08.848 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 16:50:09.011 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 16:50:09.551 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-12 16:50:13.043 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-12 17:06:27.546 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 17:06:27.873 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 17:06:29.066 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 17:06:29.452 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-12 17:06:30.750 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 17:06:30.752 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 17:06:30.912 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 17:06:31.426 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-12 17:06:33.479 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-12 17:06:33.570 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-12 17:07:18.012 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 17:07:18.015 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 17:07:21.578 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 17:07:23.898 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-12 17:07:29.071 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-12 17:08:55.746 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 17:08:56.138 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 17:08:56.247 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 17:08:56.727 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-12 17:08:56.908 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 17:08:56.909 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 17:08:57.410 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 17:08:58.611 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-12 17:08:58.859 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-12 17:09:00.543 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-12 17:09:03.496 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 17:09:03.497 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 17:09:03.838 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 17:09:05.236 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-12 17:09:10.774 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-12 17:14:06.026 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 17:14:06.694 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 17:14:12.507 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 17:14:12.802 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 17:14:12.802 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 17:14:14.696 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-12 17:14:24.944 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 17:14:27.058 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-12 17:14:31.615 [TestNG-tests-1] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-12 17:14:33.935 [TestNG-tests-2] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
+2026-09-12 17:15:10.970 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - ***Starting TC002***
+2026-09-12 17:15:10.972 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Clicked On My Account
+2026-09-12 17:15:12.780 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Clicked on Login
+2026-09-12 17:15:14.859 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Entering login information
+2026-09-12 17:15:23.928 [TestNG-tests-3] INFO  testCases.TC002_AccountLogin - Logged in successfully, now we are on my acount page
